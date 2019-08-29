@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "O:\\21_ITS運用\\08_UserSupport\\Clarice\\Chatbot\\Code\\Original Code\\ITSchatbot\\WelcomeUser.csproj": {}
+  },
+  "projects": {
+    "O:\\21_ITS運用\\08_UserSupport\\Clarice\\Chatbot\\Code\\Original Code\\ITSchatbot\\WelcomeUser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "O:\\21_ITS運用\\08_UserSupport\\Clarice\\Chatbot\\Code\\Original Code\\ITSchatbot\\WelcomeUser.csproj",
+        "projectName": "WelcomeUser",
+        "projectPath": "O:\\21_ITS運用\\08_UserSupport\\Clarice\\Chatbot\\Code\\Original Code\\ITSchatbot\\WelcomeUser.csproj",
+        "packagesPath": "C:\\Users\\claricema\\.nuget\\packages\\",
+        "outputPath": "O:\\21_ITS運用\\08_UserSupport\\Clarice\\Chatbot\\Code\\Original Code\\ITSchatbot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "\\\\jptyofsrsvm92\\R4\\04\\claricema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "AsyncUsageAnalyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0-alpha003, )"
+            },
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "Microsoft.Bot.Builder": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.Bot.Builder.AI.QnA": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.Bot.Builder.Dialogs": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.Bot.Builder.Integration.AspNet.Core": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.Bot.Configuration": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "StyleCop.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.0-beta008, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
